@@ -7,6 +7,7 @@ sitting there for too long and start fresh :)
 Script to mark specified emails in inbox read 
 
 User can specify date/range from which to make emails read based on IMAP SEARCH commands/criteria 
+Useful Resource: https://tools.ietf.org/html/rfc3501.html#page-49 
 
 User MUST SUBSTITUTE appropriate username and password prior to running script
 
